@@ -1,0 +1,7 @@
+class Solution:
+    def superPow(self, a: int, b: List[int]) -> int:
+        ans=1
+        for i in b:
+            ans = (pow(ans, 10, 1337) * pow(a, i, 1337)) % 1337
+        return ans
+        

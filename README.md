@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/csxark/fictional-fiesta/tree/master/0048-rotate-image) |
+| [0728-self-dividing-numbers](https://github.com/csxark/fictional-fiesta/tree/master/0728-self-dividing-numbers) |
 ## Matrix
 |  |
 | ------- |
